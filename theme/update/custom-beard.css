@@ -28,3 +28,6 @@
 #friends, .guilds-wrapper, #friends .friends-table .friends-table-header, .flex-horizontal>.flex-spacer:not(.private-channel-call-participants), .chat .messages, .friends-table .messages .message-group:not(.has-divider), .messages-wrapper .messages .message-group:not(.has-divider) .friends-table .friends-table-header+ .scroller-wrap .scroller {
     background: transparent !important;
 }
+.messages-wrapper .messages .message-group:not(.has-divider) {
+    background: transparent !important;
+}
